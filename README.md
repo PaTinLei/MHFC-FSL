@@ -15,6 +15,6 @@ Test
 python main.py --mode test -g 0 --resume ckpt/miniimagenet/x_res12_best.pth.tar --r_resume ckpt/miniimagenet/r_res12_best.pth.tar --dataset miniimagenet
 ```
 
-##Acknowledgments
+## Acknowledgments
 
 This code is based on [ICI-FSL](https://github.com/Yikai-Wang/ICI-FSL/blob/master/V1-CVPR20/)

@@ -1,5 +1,6 @@
 # MHFC-FSL
 This repository contains the code for our paper "MHFC: Multi-Head Feature Collaboration for Few-Shot Learning"
+Note that, our inductive setting is the "non-standardized inductive setting", which adopts the query feature when reducing the feature's dimension.
 
 ## Requirements
 
@@ -14,7 +15,7 @@ Test
 ```
 python main.py --mode test -g 0 --resume ckpt/miniimagenet/x_res12_best.pth.tar --r_resume ckpt/miniimagenet/r_res12_best.pth.tar --dataset miniimagenet
 ```
-Note that, our inductive setting is the "non-standardized inductive setting", which adopts the query feature when reducing the feature's dimension.
+
 
 ## Acknowledgments
 

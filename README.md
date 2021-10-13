@@ -14,7 +14,7 @@ sklearn=0.21.2
 ## Usage
 Test
 ```
-python main.py --mode test -g 0 --resume ckpt/miniimagenet/x_res12_best.pth.tar --r_resume ckpt/miniimagenet/r_res12_best.pth.tar --dataset miniimagenet
+python main.py --mode test -g 0 r --dataset miniimagenet
 ```
 
 

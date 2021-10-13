@@ -1,5 +1,5 @@
 # MHFC-FSL
-This repository contains the code for our paper "MHFC: Multi-Head Feature Collaboration for Few-Shot Learning"
+This repository contains the code for our paper "MHFC: Multi-Head Feature Collaboration for Few-Shot Learning".
 
 Note that, our inductive setting is the "non-standardized inductive setting", which adopts the query feature when reducing the feature's dimension.
 
